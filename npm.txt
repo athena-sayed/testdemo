@@ -1,0 +1,12 @@
+NPM
+ 1.npm is the worlds largest software registry
+ 2.The registry contains over 800000 code packages
+ 3. Open source developers use npm to share software
+ . its full form is node package manager
+
+Software package manager
+
+  All npm packages are defined in files called package.json
+   ex.npm init
+  The content of package .json must be written in JSON
+  At least two fields must be present in the definition file name and version
